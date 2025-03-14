@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "mycraft:guidite"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "mycraft:guidite"
+      }
+    ]
+  }
+}

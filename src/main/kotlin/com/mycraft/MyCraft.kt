@@ -13,7 +13,12 @@ object MyCraft : ModInitializer {
 		// Proceed with mild caution.
 		logger.info("Hello Fabric world!")
 
-        ModItems.createSuspiciousSubstance();
+        ModItems.createSuspiciousSubstance()
         ModItems.createSword()
+        ModItems.createHelmet()
+        ModItems.createChestplate()
+        ModItems.createLeggings()
+        ModItems.createBoots()
+
     }
 }
